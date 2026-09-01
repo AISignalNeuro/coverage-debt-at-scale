@@ -1,0 +1,23 @@
+# derived by make_base.ps1 from ieeeconf_letter.dot
+base.docx
+template_probe.dotx
+
+# large dataset mirrors, pulled by the notebooks
+data/
+*.parquet
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+~$*.docx
+~$*.dotx
+Thumbs.db
+.DS_Store
+
+# manuscript files are intentionally not tracked here
+*.docx
+*.doc
+Coverage_Debt_at_Scale*.pdf

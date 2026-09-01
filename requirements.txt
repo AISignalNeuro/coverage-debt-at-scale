@@ -1,0 +1,12 @@
+# analysis
+numpy
+pandas
+matplotlib
+pillow
+huggingface_hub
+jupyterlab
+
+# paper-format
+python-docx
+lxml
+pymupdf

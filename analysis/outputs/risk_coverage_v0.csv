@@ -1,0 +1,4 @@
+dataset,p_low,p_med,p_high,unmapped_mass,CD0_risk_debt
+DROID,0.734,0.223,0.043,0.045,0.5745
+AgiBot(sample),0.802,0.133,0.064,0.089,0.6899
+RoboMIND,0.797,0.165,0.037,0.165,0.7075

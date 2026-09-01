@@ -1,0 +1,45 @@
+scene_text
+The robot is positioned in front of the fruit stand in the supermarket environment.
+"A robot is placed in front of the refrigerator, with the refrigerator door closed."
+"The robot is in front of the supermarket shelf, with a shopping cart beside it."
+"A robot is positioned in front of the checkout counter, where three different types of items and a shopping bag are placed."
+"Initial position: The dishwasher lid is slightly ajar, with objects to be cleaned placed in the right sink;
+Starting state: Hands are within the field of view of the head;
+The placement of initial operation items and environmental items, as well as the arrangement of objects inside the dishwasher, changes every 30 entries."
+"1. A bowl containing two slices of toast or a pack of bread slices is placed to the left front of the robot, with a toaster positioned to the right front.
+2. The environmental setup changes every 20 data entries."
+"A robot stands in front of a table with a 2-grid material frame and a target frame placed on the surface. The target frame is on the right, and the 2-grid material frame is on the left."
+"A robot is placed in front of the bed in the bedroom, with a pair of shorts messily lying on the bed."
+A pair of shorts is laid out horizontally on the bed in the bedroom.
+"A robot stands in front of a table, on which there is a 3-grid material frame and a target frame, with the target frame on the left and the 3-grid material frame on the right."
+"A robot stands in front of a table with a 4-grid material frame and a target frame placed on the surface. The target frame is on the left, and the 4-grid material frame is on the right."
+"1. An empty plate is placed to the left front of the robot, and a toaster with two slices of toasted bread is placed to the right front;
+2. The arrangement of items in the environment changes every 20 data entries."
+"1. Initial Position: A baking tray is placed in front of the robot, containing two slices of vegetables to be roasted. An oven is positioned to the front left, and an oil dish and seasoning bottles are placed to the front right.
+2. The placement of environmental items changes every 30 data entries."
+"1. The robot is positioned in front of the cash register, where four different types of items and a soft woven bag are placed;
+2. Alter the positions and orientations of the items and the soft woven bag on the cash register."
+"A robot stands in front of a table, on which there is a 3-grid material frame and a target frame. The target frame is on the left, and the 3-grid material frame is on the right."
+"Initial positions: The tea bag box, water cup, and kettle are placed on the table.
+The initial positions of the items are changed every 20 entries."
+"A robot stands in front of a table with a 4-grid material frame and a target frame placed on the surface. The 4-grid material frame is on the left, and the target frame is on the right."
+"The robot stands in front of the table, with a cardboard box, air column wrap, and items arranged in sequence on the table."
+"Initial position: The robot's arms are holding empty plates, with forks placed in the bowls, and dishes, cups, and napkins are on the table.
+The initial positions of items on the table are changed every 20 entries."
+"The robot stands in front of the table, with the cardboard box, air column wrap, and items arranged in sequence on the table."
+"The robot stands in front of the bookshelf, where there are gaps (quite tight) between each book in the row waiting to be inserted. On another level of the bookshelf, the books to be inserted are lying flat.
+The bookshelf has two operable levels, and the level for picking up and inserting books is changed every 50 operations."
+The robot is positioned in front of the fruit shelves in a supermarket environment.
+The robot is positioned in front of the freezer in a supermarket environment.
+"A robot is placed in front of the refrigerated section cabinet, with a shopping cart beside it."
+"The robot is placed inside the supermarket checkout counter to simulate cashier operations, with three items and a barcode scanner placed on the checkout counter."
+"Initial position: The robot is facing the sink, with a water bottle containing a small amount of colored liquid placed on the countertop, and a cup brush standing upright in a storage box on the countertop."
+"A robot is positioned in front of a table, on which there are a material box containing clothes and a target box. The 2-grid material box is on the right, and the target box is on the left."
+"Within the robot's operating range, there is an empty cup and a teapot containing colored tea. The initial positions of the teapot and cup are alternated every 20 cycles, with the teapot and cup being paired together."
+"The robot stands by the bed or sofa, with clothes placed on the left and hangers on the right."
+"The cup and cloth are both located within the robot's operable range on the table, with the cup positioned closer to the stain."
+"The conveyor belt, logistics boxes (PICO cartons), and air column film are within the head's field of vision on the table. The logistics boxes are placed on the left side of the table, and the air column film is placed on the right side."
+"There are three pieces of trash on the desk, with a countertop trash bin nearby, which has a garbage bag inside."
+"The garment steamer is leaning against the wall, with the robot standing facing it. A short-sleeved shirt is hanging on the steamer, and the steam iron is placed on the steamer's stand."
+"Two robots are positioned on either side of the table, facing each other, with the table situated in the middle between them."
+"The garment steamer leans against the wall, with the robot standing facing it. A short-sleeved shirt hangs on the steamer, and a neatly placed iron rests on the steamer's stand."

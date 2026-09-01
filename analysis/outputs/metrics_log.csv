@@ -1,0 +1,4 @@
+dataset,feature,value,n_unique_verbs,n_episodes,method
+DROID,T1_verb_entropy,2.7159,299,50092,all_instructions|regex_first_alpha_token
+DROID,T1_verb_entropy,2.7159,299,50092,all_instructions|regex_first_alpha_token
+AgiBot_sample,T1_verb_entropy,2.7264,34,34512,all_action_texts|regex_first_alpha_token
